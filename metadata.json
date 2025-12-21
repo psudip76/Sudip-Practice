@@ -1,0 +1,5 @@
+{
+  "name": "BrickBuilder 3D",
+  "description": "A fully interactive 3D Lego-style editor with AI-powered construction assistance, allowing users to build, color, and design complex structures in a grid-snapped environment.",
+  "requestFramePermissions": []
+}
